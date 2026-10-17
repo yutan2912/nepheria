@@ -1,0 +1,1 @@
+import{t as A}from"./chunk-2MimG09M.js";function l(n,x){let f=A(n.location.x,n.location.y,n.width*x,n.depth*x,n.rotate),o=Infinity,e=Infinity,i=-Infinity,m=-Infinity;for(let t of f)o=Math.min(o,t.x1,t.x2),e=Math.min(e,t.y1,t.y2),i=Math.max(i,t.x1,t.x2),m=Math.max(m,t.y1,t.y2);return{minX:o,minY:e,maxX:i,maxY:m}}export{l as t};

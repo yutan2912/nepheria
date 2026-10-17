@@ -1,0 +1,1 @@
+import{a as J,b as ut,i as E,n as A}from"./chunk-BGF1u9PY.js";function u(n){return e=>{J(n)(e)}}function S(n){return(e,c)=>{e instanceof A?ut(n)(e,c):E(n)(e,c)}}export{u as n,S as t};

@@ -1,0 +1,1 @@
+var n=class s{static{this.windows=new Map}static attach(t,e){s.windows.set(t,e)}static detach(t){s.windows.delete(t)}static current(){for(let[t,e]of s.windows)if(t.hasFocus?.())return e;return null}static layerFor(t){return t?s.windows.get(t)??null:null}static reset(){s.windows.clear()}};export{n as t};

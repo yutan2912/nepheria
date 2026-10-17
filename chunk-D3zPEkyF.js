@@ -1,0 +1,1 @@
+import{st as T,z as M}from"./chunk-Du1kacT8.js";import{r as Ie}from"./chunk-D7tmZFCv.js";var a=new M(`TRANSLATE_FN`,{providedIn:`root`,factory:()=>{let n=T(Ie);return(e,c)=>n.translate(e,c)}});export{a as t};
