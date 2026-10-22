@@ -1,0 +1,1 @@
+import{$n as ne,wr as ti}from"./chunk-Du1kacT8.js";var s=(()=>{class t{constructor(){this.hoveredId=ti(null)}static{this.ɵfac=function(r){return new(r||t)}}static{this.ɵprov=ne({token:t,factory:t.ɵfac,providedIn:`root`})}}return t})();export{s as t};

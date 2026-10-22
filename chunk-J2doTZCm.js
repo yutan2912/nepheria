@@ -1,0 +1,1 @@
+import{i as E,n as A,o as J,x as ut}from"./chunk-Dtk-cV-O.js";function u(n){return e=>{J(n)(e)}}function S(n){return(e,c)=>{e instanceof A?ut(n)(e,c):E(n)(e,c)}}export{u as n,S as t};

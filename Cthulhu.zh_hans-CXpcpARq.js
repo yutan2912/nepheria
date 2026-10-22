@@ -1,0 +1,1 @@
+var i={Cthulhu:{critical:`大成功`,special:`极难成功`,critical_special:`大成功/极难成功`,fumble:`大失败`,partial_success:`部分成功`,automatic_success:`自动成功`,automatic_failure:`自动失败`,broken:`故障`,broken_number:`故障率`}};var e={zh_hans:i};export{e as default,i as zh_hans};

@@ -1,0 +1,1 @@
+var t=!1;function o(){return t}function r(e){t=e}export{r as n,o as t};

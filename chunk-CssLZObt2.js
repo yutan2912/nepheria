@@ -1,0 +1,1 @@
+import{r as D,y as p}from"./chunk-Dtk-cV-O.js";function f(i){let t=[i.identifier];for(let e of i.children)t.push(...f(e));return t}function d(i,t){let e=f(i);if(t){D(`FORGET_DELETED_OBJECTS`,{identifiers:e});for(let n of e)p.instance.update(n)}else for(let n of e)D(`DELETE_GAME_OBJECT`,{aliasName:``,identifier:n})}export{d as t};

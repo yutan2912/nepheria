@@ -1,0 +1,1 @@
+var e={holdKind:`bySpell`,holdWithoutSource:`noContest`,pcTieOrder:`id`,counterUnlessPay:`pay`,missingSkillRoll:`fail`,neutralIsAlly:!1,neutralTargetable:!0,missingAbilityContest:`autoLose`,foeTieOrder:`placement`,resistNotation:`total`,stageOnAllyTargets:!1,hitStack:`sum`};export{e as t};

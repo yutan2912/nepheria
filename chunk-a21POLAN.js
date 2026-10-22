@@ -1,0 +1,1 @@
+function e(i,t={}){i.openLazy(()=>import(`./grant-window.component-JzxPrDgF.js`).then(n=>n.GrantWindowComponent),{title:`習得させる`,width:720,height:560,minWidth:520,minHeight:420,single:`nepheria-grant`},n=>n.init(t))}export{e as t};
