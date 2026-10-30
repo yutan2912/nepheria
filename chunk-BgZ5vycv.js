@@ -1,0 +1,1 @@
+function s(o){let i=[];o.fatal&&i.push(`\u8AAD\u8FBC\u5931\u6557: ${o.fatal}`);for(let n of o.invalid)i.push(`\u546A\u6587[${n.index}]${n.id?`(${n.id})`:``}: ${n.errors.join(` / `)}`);for(let n of o.valid)for(let f of n.warnings)i.push(`\u26A0 [${n.spell.id}] ${f}`);for(let n of o.packNotes??[])n.kind===`ruling`&&i.push(`\u26A0 [${n.id}] ${n.text}`);return i}export{s as t};

@@ -1,0 +1,1 @@
+import{ur as ri}from"./chunk-D3rO_2Dy.js";var r=ri(null);var s=`nepheria.shopPreset`;function n(){try{let e=sessionStorage.getItem(s);return sessionStorage.removeItem(s),e?{placeId:e}:null}catch(e){return null}}export{r as n,n as t};

@@ -1,0 +1,1 @@
+import{lr as re,ur as ri}from"./chunk-D3rO_2Dy.js";var s=(()=>{class t{constructor(){this.hoveredId=ri(null)}static{this.ɵfac=function(r){return new(r||t)}}static{this.ɵprov=re({token:t,factory:t.ɵfac,providedIn:`root`})}}return t})();export{s as t};

@@ -1,0 +1,1 @@
+import{a as S}from"./chunk-DoUCAznw.js";var s=S.instance;export{s as t};

@@ -1,0 +1,1 @@
+var t=null;function s(e){t=e}function u(e,n){return t?t(e,n):null}var r=null;function i(e){r=e}function c(e){return r?r(e):null}var o=null;function a(e){o=e}function v(e,n){return o?o(e,n):null}var l=null;function p(e){l=e}function x(e){let n=l?l(e):null;return n?new DOMRect(n.x,n.y,n.width,n.height):null}export{s as a,x as c,p as i,c as n,u as o,i as r,v as s,a as t};

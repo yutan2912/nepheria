@@ -1,0 +1,1 @@
+var n=`(名前未設定)`;var u=[/[0-9a-f]{8}-[0-9a-f]{4}-/i,/item-standing/,/:eq:/,/#\d+$/,/^[a-z]+[-_][a-z0-9_-]+$/];function f(e){return u.some(t=>t.test(e))}function r(e){let t=(e??``).trim();return t===``||f(t)?n:t}function i(e,t,o){return t==null||t===``?n:r(o[e]?.(t))}function a(e){let t=/^\[(.+)\]$/.exec(e.trim());return r(t?t[1]:e)}export{r as i,i as n,n as r,a as t};

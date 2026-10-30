@@ -1,0 +1,1 @@
+import{S as yt,_ as m,d as Z,p as b}from"./chunk-DoidRL41.js";function u(n){return e=>{Z(n)(e)}}function S(n){return(e,c)=>{e instanceof m?yt(n)(e,c):b(n)(e,c)}}export{u as n,S as t};

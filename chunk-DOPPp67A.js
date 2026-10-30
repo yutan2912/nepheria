@@ -1,0 +1,1 @@
+import{n as r,t as o}from"./chunk-BqdUnj7z.js";var i=`nepheriaLibraryEdit`;function s(t){return!!t?.getAttribute&&`${t.getAttribute(`nepheriaLibraryEdit`)??``}`==`1`}function u(t){let o$1=o();r(!0);try{return t()}finally{r(o$1)}}export{s as n,u as r,i as t};

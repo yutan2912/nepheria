@@ -1,0 +1,1 @@
+var e={start:()=>null,done:()=>{}};export{e as t};

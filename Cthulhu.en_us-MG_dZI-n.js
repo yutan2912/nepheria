@@ -1,0 +1,1 @@
+var i={Cthulhu:{critical:`Critical Success`,special:`Special`,critical_special:`Critical Success/Special`,fumble:`Fumble`,partial_success:`Partial Success`,automatic_success:`Automatic Success`,automatic_failure:`Automatic Failure`,broken:`Malfunction`,broken_number:`Malfunction Number`}};var u={en_us:i};export{u as default,i as en_us};
