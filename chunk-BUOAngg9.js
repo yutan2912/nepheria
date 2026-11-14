@@ -1,0 +1,1 @@
+import{n as r$1,t as o}from"./chunk-BqdUnj7z.js";var i=`nepheriaLibraryEdit`;var r=new WeakSet;function p(t){t&&r.add(t)}function u(t){return!!t&&r.has(t)}function k(t){return!!t?.getAttribute&&`${t.getAttribute(`nepheriaLibraryEdit`)??``}`==`1`}function b(t){let n=o();r$1(!0);try{return t()}finally{r$1(n)}}export{u as a,p as i,i as n,k as r,b as t};

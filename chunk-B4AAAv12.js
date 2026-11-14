@@ -1,0 +1,1 @@
+var n=`nepheria.reaction.graceMs`;function r(t){if(t==null||t===``)return 1500;let e=Number(t);return Number.isFinite(e)?Math.min(3e3,Math.max(0,Math.round(e))):1500}function _(){try{return r(localStorage.getItem(n))}catch(t){return 1500}}export{n,r,_ as t};

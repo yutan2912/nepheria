@@ -1,0 +1,608 @@
+{
+  "version": 1,
+  "note": "tools/fx-s で生成(波2・素材担当)。出自は docs/fx_assets.md",
+  "sheets": {
+    "c-sand": {
+      "file": "c-sand.webp",
+      "frames": 24,
+      "size": 128,
+      "fh": 128,
+      "cols": 8,
+      "loop": true,
+      "lazy": true,
+      "bytes": 224504
+    },
+    "c-glint": {
+      "file": "c-glint.webp",
+      "frames": 4,
+      "size": 128,
+      "fh": 128,
+      "cols": 4,
+      "loop": true,
+      "lazy": true,
+      "bytes": 11972
+    },
+    "ground-swirl": {
+      "file": "ground-swirl.webp",
+      "frames": 16,
+      "size": 160,
+      "fh": 160,
+      "cols": 8,
+      "loop": true,
+      "lazy": true,
+      "bytes": 269630
+    },
+    "die": {
+      "file": "die.webp",
+      "frames": 16,
+      "size": 128,
+      "fh": 128,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 24524
+    },
+    "hourglass": {
+      "file": "hourglass.webp",
+      "frames": 16,
+      "size": 128,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 70562
+    },
+    "arrow": {
+      "file": "arrow.webp",
+      "frames": 1,
+      "size": 192,
+      "fh": 48,
+      "cols": 1,
+      "loop": false,
+      "lazy": true,
+      "bytes": 1060
+    },
+    "bell": {
+      "file": "bell.webp",
+      "frames": 8,
+      "size": 128,
+      "fh": 128,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 14796
+    },
+    "bolt-branch": {
+      "file": "bolt-branch.webp",
+      "frames": 8,
+      "size": 192,
+      "fh": 256,
+      "cols": 4,
+      "loop": false,
+      "lazy": true,
+      "bytes": 83174
+    },
+    "crack-radial": {
+      "file": "crack-radial.webp",
+      "frames": 8,
+      "size": 160,
+      "fh": 160,
+      "cols": 4,
+      "loop": false,
+      "lazy": true,
+      "bytes": 33284
+    },
+    "hook": {
+      "file": "hook.webp",
+      "frames": 1,
+      "size": 128,
+      "fh": 128,
+      "cols": 1,
+      "loop": false,
+      "lazy": true,
+      "bytes": 2530
+    },
+    "ice-crystal": {
+      "file": "ice-crystal.webp",
+      "frames": 12,
+      "size": 192,
+      "fh": 192,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 54946
+    },
+    "ice-plate": {
+      "file": "ice-plate.webp",
+      "frames": 12,
+      "size": 192,
+      "fh": 192,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 84840
+    },
+    "potion": {
+      "file": "potion.webp",
+      "frames": 1,
+      "size": 96,
+      "fh": 96,
+      "cols": 1,
+      "loop": false,
+      "lazy": true,
+      "bytes": 2190
+    },
+    "thorn": {
+      "file": "thorn.webp",
+      "frames": 12,
+      "size": 128,
+      "fh": 224,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 16164
+    },
+    "smoke-sim": {
+      "file": "smoke-sim.webp",
+      "frames": 30,
+      "size": 136,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 228182,
+      "light6": {
+        "A": "smoke-sim-la.webp",
+        "B": "smoke-sim-lb.webp",
+        "layout": "A:R=right,G=up,B=back / B:R=left,G=down,B=front(視線に沿った平均の明るさ 0..1。Unity 公式の並び)"
+      }
+    },
+    "shard": {
+      "file": "shard.webp",
+      "frames": 16,
+      "size": 160,
+      "fh": 160,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 75026
+    },
+    "blast": {
+      "file": "blast.webp",
+      "frames": 32,
+      "size": 129,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 239276,
+      "light6": {
+        "A": "blast-la.webp",
+        "B": "blast-lb.webp",
+        "layout": "A:R=right,G=up,B=back / B:R=left,G=down,B=front(視線に沿った平均の明るさ 0..1。Unity 公式の並び)"
+      },
+      "emit": "blast-e.webp"
+    },
+    "m-hand-a": {
+      "file": "m-hand-a.webp",
+      "frames": 24,
+      "size": 256,
+      "fh": 256,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 187102,
+      "selfFade": true
+    },
+    "m-hand-a-sh": {
+      "file": "m-hand-a-sh.webp",
+      "frames": 24,
+      "size": 128,
+      "fh": 128,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 26754,
+      "selfFade": true
+    },
+    "m-knot-a": {
+      "file": "m-knot-a.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 51402,
+      "selfFade": true
+    },
+    "m-needle-a": {
+      "file": "m-needle-a.webp",
+      "frames": 8,
+      "size": 64,
+      "fh": 256,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 8784
+    },
+    "m-weave-a": {
+      "file": "m-weave-a.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 64090,
+      "selfFade": true
+    },
+    "m-weave-b": {
+      "file": "m-weave-b.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 34764,
+      "selfFade": true
+    },
+    "m-weave-c": {
+      "file": "m-weave-c.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 37308,
+      "selfFade": true
+    },
+    "m-weave-d": {
+      "file": "m-weave-d.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 69484,
+      "selfFade": true
+    },
+    "m-weave-f": {
+      "file": "m-weave-f.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 22544,
+      "selfFade": true
+    },
+    "m-weave-g": {
+      "file": "m-weave-g.webp",
+      "frames": 20,
+      "size": 384,
+      "fh": 384,
+      "cols": 5,
+      "loop": false,
+      "lazy": true,
+      "bytes": 176224,
+      "selfFade": true
+    },
+    "m-weave-h": {
+      "file": "m-weave-h.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 39170,
+      "selfFade": true
+    },
+    "m-weave-i": {
+      "file": "m-weave-i.webp",
+      "frames": 20,
+      "size": 384,
+      "fh": 384,
+      "cols": 5,
+      "loop": false,
+      "lazy": true,
+      "bytes": 94154,
+      "selfFade": true
+    },
+    "m-weave-j": {
+      "file": "m-weave-j.webp",
+      "frames": 20,
+      "size": 384,
+      "fh": 384,
+      "cols": 5,
+      "loop": false,
+      "lazy": true,
+      "bytes": 239076,
+      "selfFade": true
+    },
+    "m-weave-k": {
+      "file": "m-weave-k.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 49774,
+      "selfFade": true
+    },
+    "m-weave-l": {
+      "file": "m-weave-l.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 81828,
+      "selfFade": true
+    },
+    "m-weave-m": {
+      "file": "m-weave-m.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 68326,
+      "selfFade": true
+    },
+    "m-weave-n": {
+      "file": "m-weave-n.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 39352,
+      "selfFade": true
+    },
+    "m-weave-o": {
+      "file": "m-weave-o.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 39950,
+      "selfFade": true
+    },
+    "m-weave-p": {
+      "file": "m-weave-p.webp",
+      "frames": 24,
+      "size": 256,
+      "fh": 256,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 72350,
+      "selfFade": true
+    },
+    "m-weave-q": {
+      "file": "m-weave-q.webp",
+      "frames": 20,
+      "size": 384,
+      "fh": 384,
+      "cols": 5,
+      "loop": false,
+      "lazy": true,
+      "bytes": 93266,
+      "selfFade": true
+    },
+    "m-weave-r": {
+      "file": "m-weave-r.webp",
+      "frames": 20,
+      "size": 256,
+      "fh": 256,
+      "cols": 10,
+      "loop": false,
+      "lazy": true,
+      "bytes": 56646,
+      "selfFade": true
+    },
+    "m-weave-s": {
+      "file": "m-weave-s.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 30250,
+      "selfFade": true
+    },
+    "m-hand-b": {
+      "file": "m-hand-b.webp",
+      "frames": 20,
+      "size": 288,
+      "fh": 216,
+      "cols": 5,
+      "loop": false,
+      "lazy": true,
+      "bytes": 46160,
+      "selfFade": true
+    },
+    "m-hand-c": {
+      "file": "m-hand-c.webp",
+      "frames": 12,
+      "size": 224,
+      "fh": 160,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 38264,
+      "selfFade": true
+    },
+    "m-hand-d": {
+      "file": "m-hand-d.webp",
+      "frames": 20,
+      "size": 208,
+      "fh": 208,
+      "cols": 5,
+      "loop": false,
+      "lazy": true,
+      "bytes": 104132,
+      "selfFade": true
+    },
+    "m-hand-f": {
+      "file": "m-hand-f.webp",
+      "frames": 16,
+      "size": 176,
+      "fh": 176,
+      "cols": 8,
+      "loop": false,
+      "lazy": true,
+      "bytes": 37500,
+      "selfFade": true
+    },
+    "m-axe-a": {
+      "file": "m-axe-a.webp",
+      "frames": 28,
+      "size": 288,
+      "fh": 224,
+      "cols": 7,
+      "loop": false,
+      "lazy": true,
+      "bytes": 106934,
+      "selfFade": true
+    },
+    "m-axe-b": {
+      "file": "m-axe-b.webp",
+      "frames": 19,
+      "size": 192,
+      "fh": 224,
+      "cols": 7,
+      "loop": false,
+      "lazy": true,
+      "bytes": 70148,
+      "selfFade": true
+    },
+    "m-axe-b2": {
+      "file": "m-axe-b2.webp",
+      "frames": 14,
+      "size": 224,
+      "fh": 224,
+      "cols": 7,
+      "loop": false,
+      "lazy": true,
+      "bytes": 56800,
+      "selfFade": true
+    },
+    "m-hand-g": {
+      "file": "m-hand-g.webp",
+      "frames": 24,
+      "size": 320,
+      "fh": 192,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 142644,
+      "selfFade": true
+    },
+    "m-hand-c2": {
+      "file": "m-hand-c2.webp",
+      "frames": 14,
+      "size": 224,
+      "fh": 160,
+      "cols": 7,
+      "loop": false,
+      "lazy": true,
+      "bytes": 42216,
+      "selfFade": true
+    },
+    "m-axe-ag": {
+      "file": "m-axe-ag.webp",
+      "frames": 28,
+      "size": 144,
+      "fh": 112,
+      "cols": 7,
+      "loop": false,
+      "lazy": true,
+      "bytes": 49998,
+      "selfFade": true
+    },
+    "m-axe-bk1": {
+      "file": "m-axe-bk1.webp",
+      "frames": 13,
+      "size": 192,
+      "fh": 224,
+      "cols": 6,
+      "loop": false,
+      "lazy": true,
+      "bytes": 45386,
+      "selfFade": true
+    },
+    "m-axe-bk2": {
+      "file": "m-axe-bk2.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 224,
+      "cols": 7,
+      "loop": false,
+      "lazy": true,
+      "bytes": 58086,
+      "selfFade": true
+    },
+    "m-axe-bc": {
+      "file": "m-axe-bc.webp",
+      "frames": 10,
+      "size": 192,
+      "fh": 224,
+      "cols": 5,
+      "loop": false,
+      "lazy": true,
+      "bytes": 40728,
+      "selfFade": true
+    }
+  },
+  "textures": {
+    "tex-lut": {
+      "file": "tex-lut.webp",
+      "w": 256,
+      "h": 10,
+      "rows": [
+        "fire",
+        "ice",
+        "arcane",
+        "holy",
+        "poison",
+        "plasma",
+        "shadow",
+        "blood",
+        "sand",
+        "steel"
+      ],
+      "note": "�s=�n���B��=����0..1�B�N�����v�E�~�b�v�����EsRGB",
+      "bytes": 708
+    },
+    "tex-noise": {
+      "file": "tex-noise.webp",
+      "w": 256,
+      "h": 256,
+      "channels": "R=fbm G=worley(�E�̒��S����) B=ridged A=billow",
+      "note": "4�ӂŃ^�C������B�T���v���[�� repeat�E���`",
+      "bytes": 208846
+    },
+    "tex-flow": {
+      "file": "tex-flow.webp",
+      "w": 256,
+      "h": 256,
+      "channels": "RG=���x(0.5��0) B=�ʑ��̂���",
+      "note": "4�ӂŃ^�C���E�� sRGB �Ƃ��ēǂ�",
+      "bytes": 132020
+    }
+  }
+}

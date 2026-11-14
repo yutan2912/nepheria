@@ -1,0 +1,1 @@
+import"./chunk-GcmSWzES.js";import"./chunk-ZelCdQ2r.js";import"./chunk-CZTKdiOM.js";import{l as z}from"./chunk-BujzRvzQ.js";import{a as W}from"./chunk-Di6zWsUi2.js";function n(){let r=z.spells(),o=z.items();return{spell:e=>r[e]?W(r[e]):void 0,item:e=>o[e]}}export{n as dataLabEnv};

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "note": "tools/fx-c/gen.mjs で生成(手続き生成。外部素材なし)",
+  "sheets": {
+    "c-wind": {
+      "file": "c-wind.webp",
+      "frames": 24,
+      "size": 160,
+      "fh": 160,
+      "cols": 8,
+      "loop": true,
+      "bytes": 77096
+    },
+    "c-shell": {
+      "file": "c-shell.webp",
+      "frames": 24,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": true,
+      "bytes": 245750
+    },
+    "c-ripple": {
+      "file": "c-ripple.webp",
+      "frames": 16,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "bytes": 36722
+    },
+    "c-shatter": {
+      "file": "c-shatter.webp",
+      "frames": 20,
+      "size": 192,
+      "fh": 192,
+      "cols": 10,
+      "loop": false,
+      "bytes": 72310
+    },
+    "c-arc": {
+      "file": "c-arc.webp",
+      "frames": 16,
+      "size": 160,
+      "fh": 160,
+      "cols": 8,
+      "loop": true,
+      "bytes": 41110
+    },
+    "c-status": {
+      "file": "c-status.webp",
+      "frames": 16,
+      "size": 128,
+      "fh": 128,
+      "cols": 4,
+      "loop": false,
+      "bytes": 48958
+    }
+  }
+}

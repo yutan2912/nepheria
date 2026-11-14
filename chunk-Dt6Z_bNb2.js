@@ -1,0 +1,1 @@
+var t=`hand:`;function f(n){return t+n}function e(n){return n.startsWith(t)&&n.length>5}function o(n){return e(n)?n.slice(5):null}function i(n,r){return r?o(n)===r:!1}export{f as n,i as r,e as t};

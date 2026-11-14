@@ -1,0 +1,1 @@
+import{c as L}from"./chunk-SkGxJy5J.js";function i(e,o,n){return new Promise(t=>{if(typeof e.toBlob!=`function`){t(null);return}e.toBlob(b=>t(b),o,n)})}function p(e,o){return L(this,null,function*(){let n=yield i(e,`image/webp`,o);return n&&n.type===`image/webp`?n:i(e,`image/png`,o)})}export{p as t};
