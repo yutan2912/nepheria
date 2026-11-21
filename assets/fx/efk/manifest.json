@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "runtime": "EffekseerForWebGL 1.80.7 (MIT)",
+  "effects": {
+    "nextsoft/MagicCold": {
+      "file": "nextsoft/MagicCold.efk",
+      "bytes": 4631,
+      "files": [
+        "Texture/SnowCrystals_M.png",
+        "Texture/SnowCrystals_S.png",
+        "Texture/Fog3001.png"
+      ]
+    },
+    "nextsoft/MagicFire1": {
+      "file": "nextsoft/MagicFire1.efk",
+      "bytes": 3005,
+      "files": [
+        "Texture/t0007.png"
+      ]
+    },
+    "nextsoft/MagicFire2": {
+      "file": "nextsoft/MagicFire2.efk",
+      "bytes": 2053,
+      "files": [
+        "Texture/FlameRadiation.png"
+      ]
+    },
+    "nextsoft/MagicHeal1": {
+      "file": "nextsoft/MagicHeal1.efk",
+      "bytes": 7572,
+      "files": [
+        "Texture/Line01.png",
+        "Texture/Particle02.png"
+      ]
+    },
+    "nextsoft/MagicHeal2": {
+      "file": "nextsoft/MagicHeal2.efk",
+      "bytes": 7651,
+      "files": [
+        "Texture/Line01.png",
+        "Texture/t0002.png",
+        "Texture/Cloud01.png",
+        "Texture/MagicCircle4.png"
+      ]
+    },
+    "nextsoft/MagicLight": {
+      "file": "nextsoft/MagicLight.efk",
+      "bytes": 7679,
+      "files": [
+        "Texture/SaintArrow.png",
+        "Texture/Particle01.png",
+        "Texture/Particle02.png"
+      ]
+    },
+    "nextsoft/MagicMeteo": {
+      "file": "nextsoft/MagicMeteo.efk",
+      "bytes": 5077,
+      "files": [
+        "Texture/Crystal001.png",
+        "Texture/Crystal002.png",
+        "Texture/Shock_wave001.png"
+      ]
+    },
+    "nextsoft/MagicThunder": {
+      "file": "nextsoft/MagicThunder.efk",
+      "bytes": 7973,
+      "files": [
+        "Texture/Burst01.png",
+        "Texture/Thunder10.png",
+        "Texture/t0002.png"
+      ]
+    },
+    "nextsoft/MagicTornade": {
+      "file": "nextsoft/MagicTornade.efk",
+      "bytes": 3945,
+      "files": [
+        "Texture/Particle03.png"
+      ]
+    },
+    "nextsoft/MagicWater": {
+      "file": "nextsoft/MagicWater.efk",
+      "bytes": 12492,
+      "files": [
+        "Texture/Foam001.png",
+        "Texture/Foam002.png",
+        "Texture/Foam003.png",
+        "Texture/PolkaDot.png"
+      ]
+    },
+    "nextsoft/MagicDark": {
+      "file": "nextsoft/MagicDark.efk",
+      "bytes": 5562,
+      "files": [
+        "Texture/ShadowEye.png",
+        "Texture/MagicCircle1.png",
+        "Texture/Fog3001.png"
+      ]
+    },
+    "nextsoft/PowerUp": {
+      "file": "nextsoft/PowerUp.efk",
+      "bytes": 2261,
+      "files": [
+        "Texture/Shock_wave_ring004.png"
+      ]
+    },
+    "v16/Aura01": {
+      "file": "v16/Aura01.efk",
+      "bytes": 7420,
+      "files": [
+        "Textures/Aura02_T.png",
+        "Textures/Normal01.png",
+        "Textures/Particle01.png",
+        "Textures/Aura04_T.png"
+      ]
+    },
+    "v16/Barrior01": {
+      "file": "v16/Barrior01.efk",
+      "bytes": 7195,
+      "files": [
+        "Textures/ShapePattern01_T.png",
+        "Textures/Gradation_Black_White_Black_Large.png",
+        "Textures/Aura04_T.png",
+        "Textures/Aura01_T.png"
+      ]
+    },
+    "v16/Barrior02": {
+      "file": "v16/Barrior02.efk",
+      "bytes": 9013,
+      "files": [
+        "Textures/Aura02_T.png",
+        "Textures/Normal01.png",
+        "Textures/Aura04_T.png",
+        "Textures/Aura06_T.png",
+        "Textures/Aura01_T.png"
+      ]
+    },
+    "andrew/magic_circle": {
+      "file": "andrew/magic_circle.efk",
+      "bytes": 10550,
+      "files": [
+        "Texture/ribbon01_trans.png",
+        "Texture/drillshi.png",
+        "Texture/eggzero.png",
+        "Texture/starpart_.png"
+      ]
+    },
+    "andrew/hit_eff": {
+      "file": "andrew/hit_eff.efk",
+      "bytes": 8439,
+      "files": [
+        "Texture/burst02_red.png",
+        "Texture/clockHand.png",
+        "Texture/Particle01.png"
+      ]
+    },
+    "andrew/actionLines_radial": {
+      "file": "andrew/actionLines_radial.efk",
+      "bytes": 4198,
+      "files": [
+        "Texture/glow.png"
+      ]
+    },
+    "pierre2/FireBall": {
+      "file": "pierre2/FireBall.efk",
+      "bytes": 54452,
+      "files": [
+        "Texture/Fire_Single.png",
+        "Texture/Star.png",
+        "Texture/Particle_Soft.png",
+        "Texture/Fire_Blur.png",
+        "Texture/Smoke.png",
+        "Texture/Splash.png",
+        "Texture/ExperimentalNoise.png"
+      ]
+    }
+  }
+}

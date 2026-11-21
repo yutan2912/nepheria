@@ -1,0 +1,1 @@
+var t=`@i18n:`;function u(n,s={}){return t+n+`:`+JSON.stringify(s)}function a(n){return typeof n==`string`&&n.startsWith(t)}function f(n,s){if(!a(n))return n??``;let e=n.slice(6),r=e.indexOf(`:`);if(r<0)return n;let o=e.slice(0,r),i=e.slice(r+1);try{return s(o,JSON.parse(i))}catch(c){return n}}export{u as n,f as t};

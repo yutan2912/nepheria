@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "note": "tools/fx-weapon/gen.py → pack.mjs で生成(武器・条件キーワードの演出。手続きの連番)",
+  "sheets": {
+    "wslash": {
+      "file": "wslash.webp",
+      "frames": 20,
+      "size": 160,
+      "fh": 160,
+      "cols": 10,
+      "loop": false,
+      "bytes": 28208
+    },
+    "wclaw": {
+      "file": "wclaw.webp",
+      "frames": 20,
+      "size": 160,
+      "fh": 160,
+      "cols": 10,
+      "loop": false,
+      "bytes": 45104
+    },
+    "whit": {
+      "file": "whit.webp",
+      "frames": 20,
+      "size": 160,
+      "fh": 160,
+      "cols": 10,
+      "loop": false,
+      "bytes": 60064
+    },
+    "wchain": {
+      "file": "wchain.webp",
+      "frames": 3,
+      "size": 96,
+      "fh": 96,
+      "cols": 3,
+      "loop": false,
+      "bytes": 2760
+    },
+    "wmark": {
+      "file": "wmark.webp",
+      "frames": 5,
+      "size": 96,
+      "fh": 96,
+      "cols": 5,
+      "loop": false,
+      "bytes": 8840
+    }
+  }
+}

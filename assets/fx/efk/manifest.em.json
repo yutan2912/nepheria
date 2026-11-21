@@ -1,0 +1,274 @@
+{
+  "version": 1,
+  "license": "CC0 1.0 (effekseer/EffectMaterials README: All data are under CC0.)",
+  "runtime": "EffekseerForWebGL 1.80.7 (MIT)",
+  "effects": {
+    "em/ef_fire01": {
+      "file": "em/ef_fire01.efk",
+      "bytes": 13764,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_fire_flipbook01_1024.png",
+        "Textures/tx_noise01_256.png",
+        "Materials/mt_dissolve02.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_fire02": {
+      "file": "em/ef_fire02.efk",
+      "bytes": 47224,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_noise01_256.png",
+        "Textures/tx_glow01_128.png",
+        "Textures/tx_white01_8.png",
+        "Textures/tx_shape01_128.png",
+        "Textures/tx_shockring01_256.png",
+        "Textures/tx_star01_256.png",
+        "Textures/tx_aura07_256.png",
+        "Textures/tx_smoke01_256.png",
+        "Textures/tx_noise03_256.png",
+        "Meshes/ms_slash01.efkmodel",
+        "Materials/mt_dissolve02.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_fire03": {
+      "file": "em/ef_fire03.efk",
+      "bytes": 48383,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_crack01_256.png",
+        "Textures/tx_white01_8.png",
+        "Textures/tx_noise01_256.png",
+        "Textures/tx_noise04_256.png",
+        "Textures/tx_noise03_256.png",
+        "Textures/tx_glow01_128.png",
+        "Textures/tx_smoke01_256.png",
+        "Meshes/ms_rock01.efkmodel",
+        "Meshes/ms_slash01.efkmodel",
+        "Materials/mt_dissolve02.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_holy01": {
+      "file": "em/ef_holy01.efk",
+      "bytes": 14062,
+      "files": [
+        "Textures/tx_prism_aura01.png",
+        "Textures/tx_glow01_128.png",
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_trail02_256_90.png",
+        "Textures/tx_glow03_128.png"
+      ],
+      "missing": []
+    },
+    "em/ef_ice01": {
+      "file": "em/ef_ice01.efk",
+      "bytes": 13033,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_smoke02_256.png",
+        "Textures/tx_debris01_128.png",
+        "Textures/tx_star01_256.png",
+        "Textures/tx_normal04_256.png",
+        "Textures/tx_ice01_256.png",
+        "Meshes/ms_ice01.efkmodel",
+        "Materials/mt_ice01.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_ice02": {
+      "file": "em/ef_ice02.efk",
+      "bytes": 98462,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_smoke02_256.png",
+        "Textures/tx_normal04_256.png",
+        "Textures/tx_ice01_256.png",
+        "Textures/tx_debris01_128.png",
+        "Textures/tx_star02_256.png",
+        "Meshes/ms_ice02.efkmodel",
+        "Materials/mt_ice01.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_ice03": {
+      "file": "em/ef_ice03.efk",
+      "bytes": 49450,
+      "files": [
+        "Textures/tx_smoke02_256.png",
+        "Textures/tx_debris01_128.png",
+        "Textures/tx_ice01_256.png",
+        "Textures/tx_smoke01_256.png",
+        "Textures/tx_star02_256.png",
+        "Textures/tx_normal04_256.png",
+        "Textures/tx_glow02_128.png",
+        "Meshes/ms_ice01.efkmodel",
+        "Meshes/ms_ice02.efkmodel",
+        "Meshes/ms_ice03.efkmodel",
+        "Materials/mt_ice01.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_lightning01": {
+      "file": "em/ef_lightning01.efk",
+      "bytes": 18907,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_smoke02_256.png",
+        "Textures/tx_directional_aura01_256.png",
+        "Textures/tx_noise08_256.png",
+        "Textures/tx_lightning01_256.png",
+        "Textures/tx_noise01_256.png",
+        "Textures/tx_noise05_256.png",
+        "Meshes/ms_lightning01.efkmodel",
+        "Meshes/ms_lightning02.efkmodel",
+        "Materials/mt_lightning02.efkmat",
+        "Materials/mt_wind03_groundAura.efkmat",
+        "Materials/mt_lightning01.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_lightning02": {
+      "file": "em/ef_lightning02.efk",
+      "bytes": 27874,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_noise08_256.png",
+        "Textures/tx_lightning04_128x256.png",
+        "Textures/tx_noise01_256.png",
+        "Textures/tx_white01_8.png",
+        "Textures/tx_directional_aura02_256.png",
+        "Textures/tx_normal04_256.png",
+        "Textures/tx_crack03_256.png",
+        "Textures/tx_lightning01_256.png",
+        "Textures/tx_noise05_256.png",
+        "Meshes/ms_lightning03_01.efkmodel",
+        "Meshes/ms_lightning03_02.efkmodel",
+        "Meshes/ms_lightning03_03.efkmodel",
+        "Meshes/ms_rock01.efkmodel",
+        "Meshes/ms_lightning02.efkmodel",
+        "Materials/mt_lightning03.efkmat",
+        "Materials/mt_dissolve02.efkmat",
+        "Materials/mt_wind03_groundCrack.efkmat",
+        "Materials/mt_lightning02.efkmat",
+        "Materials/mt_lightning01.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_lightning03": {
+      "file": "em/ef_lightning03.efk",
+      "bytes": 71224,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_directional_aura02_256.png",
+        "Textures/tx_normal04_256.png",
+        "Textures/tx_crack03_256.png",
+        "Textures/tx_noise01_256.png",
+        "Textures/tx_lightning01_256.png",
+        "Textures/tx_noise05_256.png",
+        "Textures/tx_noise08_256.png",
+        "Textures/tx_lightning04_128x256.png",
+        "Textures/tx_smoke02_256.png",
+        "Textures/tx_shockring02_256.png",
+        "Textures/tx_directional_aura01_256.png",
+        "Textures/tx_aura10_256.png",
+        "Textures/tx_gradient01_256.png",
+        "Meshes/ms_lightning02.efkmodel",
+        "Meshes/ms_lightning03_01.efkmodel",
+        "Meshes/ms_lightning03_02.efkmodel",
+        "Meshes/ms_lightning03_03.efkmodel",
+        "Meshes/ms_lightning01.efkmodel",
+        "Meshes/ms_plane01.efkmodel",
+        "Materials/mt_wind03_groundCrack.efkmat",
+        "Materials/mt_lightning02.efkmat",
+        "Materials/mt_lightning01.efkmat",
+        "Materials/mt_lightning03.efkmat",
+        "Materials/mt_wind03_groundAura.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_parts_hit01": {
+      "file": "em/ef_parts_hit01.efk",
+      "bytes": 6417,
+      "files": [
+        "Textures/tx_shockring03_256.png",
+        "Textures/tx_shockring02_256.png",
+        "Textures/tx_hit01_256.png",
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_normal04_256.png",
+        "Textures/tx_glow01_128.png"
+      ],
+      "missing": []
+    },
+    "em/ef_parts_hit02": {
+      "file": "em/ef_parts_hit02.efk",
+      "bytes": 4494,
+      "files": [
+        "Textures/tx_aura01_256.png",
+        "Materials/mt_toon_shockwave01.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_wind01": {
+      "file": "em/ef_wind01.efk",
+      "bytes": 15800,
+      "files": [
+        "Textures/tx_slash01_256.png",
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_normal05_256.png",
+        "Meshes/ms_slash02.efkmodel",
+        "Materials/mt_slash01.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_wind02": {
+      "file": "em/ef_wind02.efk",
+      "bytes": 15849,
+      "files": [
+        "Textures/tx_smoke02_256.png",
+        "Textures/tx_noise04_256.png",
+        "Textures/tx_noise07_256.png",
+        "Textures/tx_debris01_128.png",
+        "Textures/tx_normal04_256.png",
+        "Meshes/ms_wind01.efkmodel",
+        "Meshes/ms_wind02.efkmodel",
+        "Materials/mt_wind02.efkmat"
+      ],
+      "missing": []
+    },
+    "em/ef_wind03": {
+      "file": "em/ef_wind03.efk",
+      "bytes": 30129,
+      "files": [
+        "Textures/tx_glow02_128.png",
+        "Textures/tx_noise04_256.png",
+        "Textures/tx_aura12_256.png",
+        "Textures/tx_crack02_256.png",
+        "Textures/tx_aura07_256.png",
+        "Textures/tx_smoke01_256.png",
+        "Textures/tx_noise06_256.png",
+        "Textures/tx_noise08_256.png",
+        "Textures/tx_noise01_256.png",
+        "Textures/tx_glow01_128.png",
+        "Textures/tx_noise03_256.png",
+        "Textures/tx_noise05_256.png",
+        "Textures/tx_aura13_256.png",
+        "Meshes/ms_wind02.efkmodel",
+        "Meshes/ms_groundAura01.efkmodel",
+        "Meshes/ms_tornado01.efkmodel",
+        "Meshes/ms_tornado02.efkmodel",
+        "Meshes/ms_tornado03.efkmodel",
+        "Meshes/ms_tornado04.efkmodel",
+        "Meshes/ms_groundAura02.efkmodel",
+        "Materials/mt_wind03_slash01.efkmat",
+        "Materials/mt_wind03_groundAura.efkmat",
+        "Materials/mt_wind03_groundCrack.efkmat",
+        "Materials/mt_dissolve02.efkmat",
+        "Materials/mt_wind03_tornado01.efkmat"
+      ],
+      "missing": []
+    }
+  }
+}
