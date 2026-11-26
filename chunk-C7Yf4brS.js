@@ -1,0 +1,1 @@
+import{S as O,a as B}from"./chunk-Devm31Jg.js";var f={};function m(r,o,n){let t=2166136261;for(let e=0;e<o;e++)t^=r[e].uid,t=Math.imul(t,16777619),t>>>=0;return f[t]||l(r,o,t,n)}function l(r,o,n,t){let e={},i=0;for(let u=0;u<t;u++){let d=u<o?r[u]:O.EMPTY.source;e[i++]=d.source,e[i++]=d.style}let c=new B(e);return f[n]=c,c}export{m as t};

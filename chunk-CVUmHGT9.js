@@ -1,0 +1,1 @@
+import{Vt as _,dt as T}from"./chunk-GcmSWzES.js";import{r as Ie}from"./chunk-CqEItJWD.js";var a=new _(`TRANSLATE_FN`,{providedIn:`root`,factory:()=>{let n=T(Ie);return(e,c)=>n.translate(e,c)}});export{a as t};

@@ -1,0 +1,1 @@
+var e=null;function n(t){e=t}function o(t){e===t&&(e=null)}function i(t){return e?e(t):!1}function a(t){let r=Math.min(1,Math.max(0,t));return{amplitude:14+30*r,wavelength:120+90*r,speed:620+380*r,brightness:1+.12*r,radius:420+520*r}}export{o as i,i as n,n as r,a as t};

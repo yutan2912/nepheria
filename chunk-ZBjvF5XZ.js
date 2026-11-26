@@ -1,0 +1,1 @@
+import{C as yt,f as Z,m as b,v as m}from"./chunk-CJHTkYOL.js";function u(n){return e=>{Z(n)(e)}}function S(n){return(e,c)=>{e instanceof m?yt(n)(e,c):b(n)(e,c)}}export{u as n,S as t};

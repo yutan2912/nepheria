@@ -1,0 +1,1 @@
+function u(i,o,d){let{index:e,count:r}=i,t=[],n=(f,m)=>{m&&t.push({name:d(f),action:()=>m()})};return e>1&&n(`common.reorder.toTop`,o.moveToTop),e>0&&n(`common.reorder.up`,o.moveUp),e<r-1&&n(`common.reorder.down`,o.moveDown),e<r-2&&n(`common.reorder.toBottom`,o.moveToBottom),t}export{u as t};

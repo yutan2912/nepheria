@@ -1,0 +1,1 @@
+import{$n as oe,fr as ri}from"./chunk-GcmSWzES.js";var c=(()=>{class t{constructor(){this.request=ri(null)}show(e){this.request.set(e)}clear(e){this.request()?.owner===e&&this.request.set(null)}static{this.ɵfac=function(o){return new(o||t)}}static{this.ɵprov=oe({token:t,factory:t.ɵfac,providedIn:`root`})}}return t})();export{c as t};

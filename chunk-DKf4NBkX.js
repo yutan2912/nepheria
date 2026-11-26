@@ -1,0 +1,1 @@
+var n={board:0,"hud-fixed":100,panels:320,windows:1e6,menus:11e5,modals:1899999,toasts:195e4,tooltips:2e6};var s=1e3;var e={window:`windows`,menu:`menus`,popover:`menus`,modal:`modals`,toast:`toasts`,tooltip:`tooltips`,banner:`hud-fixed`};function a(o,t=0){return n[o]+Math.min(Math.max(t,0),s-1)}export{s as i,e as n,n as r,a as t};

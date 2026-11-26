@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "note": "tools/fx-blender/vfx.py → pack.mjs で生成。出自は docs/fx_assets.md",
+  "sheets": {
+    "chain": {
+      "file": "chain.webp",
+      "frames": 1,
+      "size": 1024,
+      "fh": 320,
+      "cols": 1,
+      "loop": false,
+      "bytes": 25740
+    },
+    "circle2": {
+      "file": "circle2.webp",
+      "frames": 16,
+      "size": 256,
+      "fh": 256,
+      "cols": 16,
+      "loop": true,
+      "bytes": 161524
+    },
+    "energy": {
+      "file": "energy.webp",
+      "frames": 32,
+      "size": 128,
+      "fh": 128,
+      "cols": 8,
+      "loop": true,
+      "bytes": 96972
+    },
+    "explosion": {
+      "file": "explosion.webp",
+      "frames": 25,
+      "size": 200,
+      "fh": 200,
+      "cols": 5,
+      "loop": false,
+      "bytes": 217672
+    },
+    "fireball-g": {
+      "file": "fireball-g.webp",
+      "frames": 64,
+      "size": 115,
+      "fh": 115,
+      "cols": 8,
+      "loop": true,
+      "bytes": 208654
+    },
+    "fireball": {
+      "file": "fireball.webp",
+      "frames": 64,
+      "size": 115,
+      "fh": 115,
+      "cols": 8,
+      "loop": true,
+      "bytes": 316950
+    },
+    "flame": {
+      "file": "flame.webp",
+      "frames": 64,
+      "size": 82,
+      "fh": 163,
+      "cols": 16,
+      "loop": true,
+      "bytes": 304110
+    },
+    "frost-g": {
+      "file": "frost-g.webp",
+      "frames": 32,
+      "size": 144,
+      "fh": 144,
+      "cols": 8,
+      "loop": false,
+      "bytes": 54004
+    },
+    "frost": {
+      "file": "frost.webp",
+      "frames": 32,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "bytes": 73224
+    },
+    "gust-arc": {
+      "file": "gust-arc.webp",
+      "frames": 12,
+      "size": 192,
+      "fh": 192,
+      "cols": 6,
+      "loop": false,
+      "bytes": 34610
+    },
+    "impact-frame": {
+      "file": "impact-frame.webp",
+      "frames": 4,
+      "size": 256,
+      "fh": 256,
+      "cols": 4,
+      "loop": false,
+      "bytes": 75924
+    },
+    "light-pillar": {
+      "file": "light-pillar.webp",
+      "frames": 16,
+      "size": 96,
+      "fh": 256,
+      "cols": 8,
+      "loop": true,
+      "bytes": 84360
+    },
+    "lightning-branch": {
+      "file": "lightning-branch.webp",
+      "frames": 8,
+      "size": 384,
+      "fh": 192,
+      "cols": 4,
+      "loop": false,
+      "bytes": 144220
+    },
+    "lightning": {
+      "file": "lightning.webp",
+      "frames": 32,
+      "size": 192,
+      "fh": 192,
+      "cols": 8,
+      "loop": false,
+      "bytes": 102364
+    },
+    "miasma": {
+      "file": "miasma.webp",
+      "frames": 16,
+      "size": 160,
+      "fh": 160,
+      "cols": 4,
+      "loop": true,
+      "bytes": 103682
+    },
+    "pixel-hit": {
+      "file": "pixel-hit.webp",
+      "frames": 8,
+      "size": 64,
+      "fh": 64,
+      "cols": 8,
+      "loop": false,
+      "bytes": 3728
+    },
+    "rock": {
+      "file": "rock.webp",
+      "frames": 16,
+      "size": 160,
+      "fh": 160,
+      "cols": 8,
+      "loop": true,
+      "bytes": 28028
+    },
+    "sigil-rune": {
+      "file": "sigil-rune.webp",
+      "frames": 16,
+      "size": 224,
+      "fh": 224,
+      "cols": 8,
+      "loop": true,
+      "bytes": 300310
+    },
+    "smear-slash": {
+      "file": "smear-slash.webp",
+      "frames": 8,
+      "size": 256,
+      "fh": 256,
+      "cols": 4,
+      "loop": false,
+      "bytes": 10958
+    },
+    "smoke": {
+      "file": "smoke.webp",
+      "frames": 32,
+      "size": 128,
+      "fh": 128,
+      "cols": 8,
+      "loop": true,
+      "bytes": 144504
+    },
+    "speed-lines": {
+      "file": "speed-lines.webp",
+      "frames": 6,
+      "size": 256,
+      "fh": 256,
+      "cols": 3,
+      "loop": true,
+      "bytes": 88414
+    },
+    "splash": {
+      "file": "splash.webp",
+      "frames": 32,
+      "size": 128,
+      "fh": 128,
+      "cols": 8,
+      "loop": false,
+      "bytes": 140380
+    },
+    "tornado": {
+      "file": "tornado.webp",
+      "frames": 16,
+      "size": 128,
+      "fh": 192,
+      "cols": 8,
+      "loop": true,
+      "bytes": 95530
+    },
+    "water": {
+      "file": "water.webp",
+      "frames": 16,
+      "size": 256,
+      "fh": 128,
+      "cols": 8,
+      "loop": true,
+      "bytes": 181260
+    },
+    "wind": {
+      "file": "wind.webp",
+      "frames": 16,
+      "size": 256,
+      "fh": 128,
+      "cols": 8,
+      "loop": true,
+      "bytes": 120286
+    },
+    "wisp": {
+      "file": "wisp.webp",
+      "frames": 16,
+      "size": 128,
+      "fh": 192,
+      "cols": 8,
+      "loop": true,
+      "bytes": 63692
+    }
+  }
+}

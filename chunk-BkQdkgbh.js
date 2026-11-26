@@ -1,0 +1,1 @@
+var a=null;var l=null;var t=!1;function s(e,r){a=e,l=r}function u(e,r){return a?(a(e,r),t||(t=!0,queueMicrotask(()=>{t=!1,l?.()})),!0):!1}export{u as n,s as t};

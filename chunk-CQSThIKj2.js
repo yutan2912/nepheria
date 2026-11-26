@@ -1,0 +1,1 @@
+function i(n,t){if(!t)return[];let r=new Set;for(let e of n)e.owner===t&&e.partyIdentifier&&r.add(e.partyIdentifier);return[...r]}function f(n,t){return t?n.filter(r=>r.partyIdentifier===t):[]}function o(n,t){let r=new Set(t);return n.filter(e=>!e.partyIdentifier||!r.has(e.partyIdentifier))}export{i as n,o as r,f as t};

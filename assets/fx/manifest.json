@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "assets": {
+    "frame-copper": {
+      "file": "kw/frame-copper.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "キーワード札の縁(増呪の第1段)",
+      "origin": "自作",
+      "w": 320,
+      "h": 448
+    },
+    "frame-silver": {
+      "file": "kw/frame-silver.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "キーワード札の縁(増呪の第2段)",
+      "origin": "自作",
+      "w": 320,
+      "h": 448
+    },
+    "frame-gold": {
+      "file": "kw/frame-gold.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "キーワード札の縁(増呪の第3段・凝集の解禁後)",
+      "origin": "自作",
+      "w": 320,
+      "h": 448
+    },
+    "wax-seal": {
+      "file": "kw/wax-seal.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "凝集の封蝋(閉)",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "wax-crack": {
+      "file": "kw/wax-crack.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "凝集の封蝋(割れて光が漏れる)",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "stamp-ring": {
+      "file": "kw/stamp-ring.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "落剝の赤い判子の枠",
+      "origin": "自作",
+      "w": 320,
+      "h": 320
+    },
+    "rune-1": {
+      "file": "kw/rune-1.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "武器の固有効果のルーン1",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "rune-2": {
+      "file": "kw/rune-2.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "武器の固有効果のルーン2",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "rune-3": {
+      "file": "kw/rune-3.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "武器の固有効果のルーン3(血)",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "ash-shell": {
+      "file": "kw/ash-shell.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "落剝・回帰の灰色の殻",
+      "origin": "自作",
+      "w": 320,
+      "h": 448
+    },
+    "ember-bed": {
+      "file": "kw/ember-bed.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "回帰の燠火",
+      "origin": "自作",
+      "w": 384,
+      "h": 144
+    },
+    "steel-seal": {
+      "file": "kw/steel-seal.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "確固の鋼の封",
+      "origin": "自作",
+      "w": 256,
+      "h": 256
+    },
+    "lock": {
+      "file": "kw/lock.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "確固の錠",
+      "origin": "自作",
+      "w": 128,
+      "h": 128
+    },
+    "bell-1": {
+      "file": "kw/bell-1.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "鐘の印1",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "bell-2": {
+      "file": "kw/bell-2.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "鐘の印2",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "bell-3": {
+      "file": "kw/bell-3.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "鐘の印3",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "hook": {
+      "file": "kw/hook.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "引き寄せの鉤",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "chain-link": {
+      "file": "kw/chain-link.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "鎖の輪",
+      "origin": "自作",
+      "w": 80,
+      "h": 48
+    },
+    "crossbow-sigil": {
+      "file": "kw/crossbow-sigil.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "約定の弩の紋(KPだけに見える)",
+      "origin": "自作",
+      "w": 384,
+      "h": 384
+    },
+    "claw-mark": {
+      "file": "kw/claw-mark.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "術式抵抗の爪痕",
+      "origin": "自作",
+      "w": 192,
+      "h": 192
+    },
+    "shard-glass": {
+      "file": "kw/shard-glass.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "破片(札・障壁)",
+      "origin": "自作",
+      "w": 128,
+      "h": 128
+    },
+    "shard-armor": {
+      "file": "kw/shard-armor.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "破片(装甲)",
+      "origin": "自作",
+      "w": 128,
+      "h": 128
+    },
+    "shard-gold": {
+      "file": "kw/shard-gold.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "破片(窓の縁)",
+      "origin": "自作",
+      "w": 128,
+      "h": 128
+    },
+    "lamp-green": {
+      "file": "kw/lamp-green.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "自動効果の待機の灯",
+      "origin": "自作",
+      "w": 96,
+      "h": 96
+    },
+    "flare-lens": {
+      "file": "kw/flare-lens.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "狙撃のレンズの光芒",
+      "origin": "自作",
+      "w": 512,
+      "h": 512
+    },
+    "circle-double": {
+      "file": "kw/circle-double.png",
+      "source": "tools/sprites/build.mjs (手書きSVG)",
+      "use": "二重の魔法陣(超過・凝集解禁後)",
+      "origin": "自作",
+      "w": 512,
+      "h": 512
+    },
+    "window": {
+      "file": "window.png",
+      "sheet": "window.json",
+      "source": "tools/fx-blender/render.py (Blender 5.2 Cycles)",
+      "use": "虚空の窓枠(金の枠と回る星。ループ)",
+      "origin": "自作",
+      "frames": 24,
+      "size": 256
+    },
+    "circle2": {
+      "file": "circle2.png",
+      "sheet": "circle2.json",
+      "source": "tools/fx-blender/render.py (Blender 5.2 Cycles)",
+      "use": "二重の魔法陣(超過・凝集解禁後。ループ)",
+      "origin": "自作",
+      "frames": 16,
+      "size": 256
+    }
+  }
+}
